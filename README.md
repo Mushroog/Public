@@ -13,4 +13,4 @@ multiple matches, the up/down arrow keys navigate the list. Pressing return or t
 
 A dialog box for editing the dictionary is provided. 
 
-The project is for Visual Studio 2013.
+The project is in C# for Visual Studio 2013.
